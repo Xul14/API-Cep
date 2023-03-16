@@ -25,5 +25,5 @@ Para isso criamos um formulário de cadastro, que preenche automaticamente os ca
  ---
  ## Autor
 
-[![](https://avatars.githubusercontent.com/u/42476943?v=4&s=100)](https://github.com/fernandoleonid)# API-Cep-s
+[![](https://avatars.githubusercontent.com/u/42476943?v=4&s=100)](https://github.com/fernandoleonid)
 
